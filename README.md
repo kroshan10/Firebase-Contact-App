@@ -2,3 +2,4 @@
 
 #jsx Component is used..
 #jsx has the features to write html and js combined., 
+#provide re usability
